@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 #!/usr/bin/env python3
 # fix_encoding_final.py - Fix all encoding issues including UTF-16
 
