@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 #!/usr/bin/env python3
 # fix_encoding.py - Fix UTF-8 BOM encoding with robust error handling
 
